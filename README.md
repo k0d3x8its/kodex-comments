@@ -16,21 +16,19 @@ This project is licensed under the [Creative Commons Attribution 4.0 Internation
 
 
 ## Supported Boards
- _______________________________________________________________________
-| Board           | Description                                         |
-|-----------------|-----------------------------------------------------|
-| Feather M0      | ATSAMD21-based board with lots of pins.             |
-|-----------------|-----------------------------------------------------|
-| Arduino Uno     | Classic ATmega328P board with basic I/O.            |
-|-----------------|-----------------------------------------------------|
-| Onion Omega2S+  | Linux-based WiFi development board.                 |
-|-----------------|-----------------------------------------------------|
-| XIAO ESP32 S3   | Small, powerful board based on the ESP32-S3 chip.   |
-|-----------------|-----------------------------------------------------|
-| Trinket Pro     | Miniature version of the Arduino.                   |
-|-----------------|-----------------------------------------------------|
-| Trinket M0      | Small, SAMD21-based board.                          |
-|-----------------|-----------------------------------------------------|
+ _________________________________________________________________________________
+| Board           | Description                                                   |
+|-----------------|---------------------------------------------------------------|
+| Feather M0      | ATSAMD21-based board with lots of pins.                       |
+| Arduino Uno     | Classic ATmega328P board with basic I/O.                      |
+| Onion Omega2S+  | Linux-based WiFi development board.                           |
+| XIAO ESP32 S3   | Small, powerful board based on the ESP32-S3 chip.             |
+| Trinket Pro     | Miniature version of the Arduino.                             |
+| Trinket M0      | Small, SAMD21-based board.                                    |
+| Feather ESP32   | WiFi-enabled board with the ESP32 chip, offering Bluetooth.   |
+| Feather Huzzah  | ESP8266-based board for WiFi projects.                        |
+| Particle Photon | IoT development board with a WiFi module and ARM Cortex M3.   |
+| Particle Argon  | WiFi and Bluetooth development board with a Nordic nRF52840.  |
 
 ## Contribution
 Contributions are welcome! If you'd like to suggest support for a new board, please open an issue on GitHub. Your issue should include the following details:
