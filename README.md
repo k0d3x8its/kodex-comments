@@ -1,14 +1,14 @@
 # Kodex Comments
 
 ## Project Overview
-The purpose of this project is to provide visually clear, concise comments for use with various microcontrollers, such as Feather, Arduino, Onion Omega2S+, XIAO ESP32 S3, Trinket/Trinket Pro/Trinket M0, and more. These comments help define and remind users of the wiring, boards, modules, and sensors being used in their projects.
+The purpose of this project is to provide visually clear, concise comments for use with various microcontrollers, such as Feather, Arduino, Onion Omega2S+, XIAO ESP32 S3, Trinket, Trinket Pro, Trinket M0, and more. These comments help define and remind users of the wiring, boards, modules, and sensors being used in their projects.
 
-I have designed these boards with ASCII art with inspiration from Duckman his project makes it easier to visualize pin usage and overall hardware setup. The comments are designed to simplify the development process by offering an easy reference for used components.
+I have designed these boards with ASCII art with inspiration from Duckman. This project makes it easier to visualize pin usage and overall hardware setup. The comments are designed to simplify the development process by offering an easy reference for used components.
 
 ## Features
 - **Microcontroller Support**: Comments tailored for a wide variety of microcontrollers.
-- **Clear Documentation**: Headers for name, author, description, and project details.
-- **ASCII Art**: Visual representations of the boards for easy identification of pins.
+- **Clear Documentation**: Headers for name, author, description, project details, and more.
+- **ASCII Art**: Visual representations of the boards for easy identification of pins and board features.
 - **Open Source**: Available for use in any project under the selected open-source license.
 
 ## License
