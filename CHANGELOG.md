@@ -1,5 +1,9 @@
 #Changelog
 
+## v1.0.1 (2024-09-25)
+- **🛠️:** name - Onion Omega2S+
+- **❌:** removed unecessary permissions on LICENSE 
+
 ## v1.0.0 (2024-09-23)
 - **➕:** XIAO ESP32 S3 initial design
 - **🚀:** all templates to have pinouts
